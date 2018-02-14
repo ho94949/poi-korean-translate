@@ -1,0 +1,41 @@
+\documentclass[11pt,a4paper,oneside,arabic]{article}
+
+\usepackage{kotex}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{olymp}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb} 
+\usepackage{color} % for colored text
+\usepackage{import} % for changing current dir
+\usepackage{epigraph}
+\usepackage{daytime} % for displaying version number and date
+\usepackage{wrapfig} % for having text alongside pictures
+\usepackage{verbatim}
+\usepackage{array} % compatibility check
+\usepackage{multirow}
+
+
+\contest
+{Polish Olympiad in Informatics}%
+{XXI OI}%
+{2013-2014}%
+
+\binoppenalty=10000
+\relpenalty=10000
+\exhyphenpenalty=10000
+
+\begin{document}
+	
+	%\raggedbottom
+	%\displayauthorinfootertrue
+	%\intentionallyblankpagestrue
+
+	\import{"./Round I/bar/"}{bar.tex}
+	\import{"./Round I/hot/"}{hot.tex}
+	\import{"./Round I/klo/"}{klo.tex}
+	\import{"./Round I/kur/"}{kur.tex}
+	\import{"./Round I/waz/"}{waz.tex}
+	
+\end{document}

@@ -1,0 +1,49 @@
+\begin{problem}{샐러드바}
+	{standard input}{standard output}
+	{3 seconds}{128 megabytes}{}
+	
+	범수는 샐러드바에 갔다. $n$개의 과일들이 일렬로 샐러드바에 있었다. 과일들은 사과나 오렌지이다. 범수는 샐러드를 만들 때 연속된 아무 구간이나 샐러드로 만들 수 있다.
+	
+	그가 샐러드를 만들 때 고르는 과일은 왼쪽에서부터 오른쪽 혹은 오른쪽에서 왼쪽으로 샐러드에 추가된다. 범수는 오렌지를 좋아하기 때문에, 그가 만드는 샐러드에는 특별한 조건이 있다. 샐러드를 만드는 도중에, 왼쪽에서 오른쪽으로 만들든 오른쪽에서 왼쪽으로 만들든 오렌지의 수가 사과의 수 보다 적어서는 안된다. 범수가 조건을 만족하면서 샐러드로 만들 수 있는 가장 긴 구간을 구해주자. 
+	
+	\InputFile
+	
+	첫째 줄에는 과일의 수를 의미하는 정수 $n$이 주어진다. ($1 \le n \le 1,000,000$)
+	다음 줄에는 $n$개의 문자로 이루어진 문자열 $a_1, a_2, \cdots, a_n$이 주어진다.($a_j \in \{\texttt{j},\texttt{p}\}$) $a_i = \texttt{j}$이면 $i$번재 과일이 사과이고, $a_i = \texttt{p}$이면 $i$번째 과일은 오렌지이다.
+	
+	
+	
+	\OutputFile
+	첫째 줄에 범수가 조건을 만족하면서 샐러드로 만들 수 있는 가장 긴 구간의 길이를 출력한다. 답이 0일 수 있음에 유의하여라.  
+	
+	\SubtaskWithCost{1}{20}
+	\begin{itemize}
+		\item $n \le 1,000$
+	\end{itemize}
+	
+	\SubtaskWithCost{2}{30}
+	\begin{itemize}
+		\item $n \le 10,000$
+	\end{itemize}
+	
+	\SubtaskWithCost{3}{50}
+	
+	추가 제한조건이 없다.
+	
+	\Examples
+		
+	\begin{example}
+	\exmp{
+6
+jpjppj
+	}{%
+4
+	}%
+	\end{example}
+	
+	\Note
+	
+	가장 왼족과 오른쪽에 있는 사과를 제외하고 나머지 모든 과일들을 샐러드로 만들면 된다.
+	
+\end{problem}
+
