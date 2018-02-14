@@ -1,7 +1,11 @@
 # poi-korean-translate
-Polish olympiad in Informatics translated in Korean. 
+
+Polish olympiad in Informatics translated in Korean.
+
+Based on LaTeX, [olymp.sty](https://github.com/GassaFM/olymp.sty)
 
 **I do not own this. Poland Olympiad in Informatics (Olimpiada Informatyczna) main page: [oi.edu.pl](https://oi.edu.pl/)**
+
 
 ## XXI OI (POI 2013-2014)
 
@@ -41,3 +45,84 @@ Polish olympiad in Informatics translated in Korean.
 - Solar lamps (lam)
 - Solar Panels (pan)
 - Freight (zal)
+
+
+## XX OI (POI 2012-2013)
+
+### Round I
+- Price List (cen)
+- Tapestries (gob)
+- Multidrink (mul)
+- Taxis (tak)
+- Take-out (usu)
+
+### Round II - day 0
+
+- Walk (spa)
+
+### Round II - day 1
+
+- Inspector (ins)
+- Triumphal arch (luk)
+
+### Round II - day 2
+
+- Watering can (kon)
+- Tales of seafaring (mor)
+
+### Round III - day 0
+
+- Tower Defense game (gra)
+
+### Round III - day 1
+
+- Bytecomputer (baj)
+- Maze (lab)
+- Colorful Chain (lan)
+
+### Round III - day 2
+
+- Where is the one? (gdz)
+- Laser (las)
+- Polarization (pol)
+
+
+## XIX OI (POI 2011-2012)
+
+### Round I
+- Festival (fes)
+- Letters (lit)
+- Distance (odl)
+- Rendezvous (ran)
+- Well (stu)
+
+### Round II - day 0
+
+- Tour de Byteotia (tou)
+
+### Round II - day 1
+
+- Vouchers (bon)
+- Cloackroom (sza)
+
+### Round II - day 2
+
+- A Horrible Poem (okr)
+- Fibonacci Representation (roz)
+
+### Round III - day 0
+
+- Squarks (squ)
+
+### Round III - day 1
+
+- Bidding (lic)
+- Salaries (pen)
+- Leveling Ground (wyr)
+
+### Round III - day 2
+
+- Minimalist Security (bez)
+- Warehouse Store (hur)
+- Prefixuffix (pre)
+
