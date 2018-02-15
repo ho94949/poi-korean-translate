@@ -4,7 +4,7 @@ Polish olympiad in Informatics translated in Korean.
 
 Based on LaTeX and [olymp.sty](https://github.com/GassaFM/olymp.sty).
 
-File olymp.sty in this repository includes Korean translated by me.
+File [olymp.sty](https://github.com/ho94949/poi-korean-translate/blob/master/olymp.sty) in this repository includes Korean translated by me.
 
 **I have only done translation and I do not own this problems. Poland Olympiad in Informatics (Olimpiada Informatyczna) main page: [oi.edu.pl](https://oi.edu.pl/)**
 
