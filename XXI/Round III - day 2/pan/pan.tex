@@ -1,0 +1,53 @@
+\begin{problem}{태양광 패널}
+	{standard input}{standard output}
+	{3 seconds}{128 megabytes}{}
+	
+	신재생에너지를 개발하기로 결심한 범수는 태양광 패널 공장을 시작했다. 마치 금광을 찾은 것 처럼 며칠 동안 $n$명의 고객이 문을 두드렸다. 각 고객은 너비와 높이가 정해진 직사각형 패널을 주문했다.
+	
+	패널은 정사각형 모양의 광전지로 이루어져 있다. 이 전지의 한 변은 모든 단위 길이의 정수 크기로 제작될 수 있지만, 하나의 패널 안에 있는 모든 전지는 크기가 같아야 한다. 생산 규모가 클 수록 경제성이 좋기 때문에, 전지가 클 수록 효율적이다. 그래서 범수는 주문한 각 패널에 대해 최대 크기의 전지의 한 변의 길이를 알고 싶어 했다.
+	
+	\InputFile
+	
+	입력에 첫째 줄에는 주문을 받은 정수 $n$이 주어진다. ($1 \le n \le 1,000$) 다음 $n$개의 줄은 패널에 대한 정보를 나타낸다. 각 줄은 $s_{min}$, $s_{max}$, $w_{min}$, $w_{max}$가 공백 하나로 구분되어 주어지며, 이 수는 각각 주문한 패널에 요구된 최소, 최대 너비와 최소, 최대 높이를 각각 나타낸다. ($1 \le s_{min} \le s_{max} \le 10^9$, $1 \le w_{min} \le w_{max} \le 10^9$)
+	
+	
+	\OutputFile
+	프로그램은 정확히 $n$개의 줄을 출력해야 한다. $i$번째 줄은 $i$번째 패널을 만들 때 쓸 수 있는 최대 크기의 전지의 한 변의 길이를 구해야 한다.
+	
+	\SubtaskWithCost{1}{20}
+	\begin{itemize}
+		\item $s_{max} , w_{max} \le 10^7$
+		\item $n \le 10$
+	\end{itemize}
+	\SubtaskWithCost{2}{55}
+	\begin{itemize}
+		\item $s_{max} , w_{max} \le 10^7$
+	\end{itemize}
+	
+	\SubtaskWithCost{3}{25}
+	
+	추가 제한조건이 없다.
+	
+	\Examples
+		
+	\begin{example}
+	\exmp{
+4
+3 9 8 8
+1 10 11 15
+4 7 22 23
+2 5 19 24
+	}{%
+8
+7
+2
+5
+	}%
+	\end{example}
+	
+	\Note
+	
+	범수는 $8 \times 8$ (전지 하나), $7 \times 14$ (전지 두개), $4 \times 22$ 혹은 $6 \times 22$ (전지 각 22개 혹은 33개), $5 \times 20$ (전지 네개) 크기의 태양광 패널 네 개를 생산할 것이다.
+	
+\end{problem}
+
