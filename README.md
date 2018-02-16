@@ -6,9 +6,10 @@ LaTeX과 [olymp.sty](https://github.com/GassaFM/olymp.sty)를 기반으로 만�
 
 이 저장소에 있는 [olymp.sty](https://github.com/ho94949/poi-korean-translate/blob/master/olymp.sty)는 제가 한국어용으로 번역한 파일이 들어있습니다.
 
+굵은 글씨로 되어있는 문제가 번역된 문제들 입니다.
+
 **이 문제는 제 문제가 아니고, 저는 번역만 진행했습니다. 폴란드 정보올림피아드 (Olimpiada Informatyczna)의 메인 페이지입니다.: [oi.edu.pl](https://oi.edu.pl/)**
 
-굵은 글씨로 되어있는 문제가 번역된 문제들 입니다.
 
 Polish olympiad in Informatics translated in Korean.
 
@@ -16,9 +17,10 @@ Based on LaTeX and [olymp.sty](https://github.com/GassaFM/olymp.sty).
 
 File [olymp.sty](https://github.com/ho94949/poi-korean-translate/blob/master/olymp.sty) in this repository includes Korean translated by me.
 
-**I have only done translation and I do not own this problems. Poland Olympiad in Informatics (Olimpiada Informatyczna) main page: [oi.edu.pl](https://oi.edu.pl/)**
-
 Bold faced problem is translated. 
+
+**I have only done translation and I do not own this problems. Polish Olympiad in Informatics (Olimpiada Informatyczna) main page: [oi.edu.pl](https://oi.edu.pl/)**
+
 
 ## XXI OI (POI 2013-2014)
 
@@ -67,7 +69,7 @@ POI 2013-2014의 문제들은 다음 링크에서 찾아보실 수 있습니다.
 ### Round I
 - Price List (cen)
 - Tapestries (gob)
-- Multidrink (mul)
+- **멀티드링크 (mul)**
 - Taxis (tak)
 - Take-out (usu)
 
@@ -78,12 +80,12 @@ POI 2013-2014의 문제들은 다음 링크에서 찾아보실 수 있습니다.
 ### Round II - day 1
 
 - Inspector (ins)
-- Triumphal arch (luk)
+- **개선문 (luk)**
 
 ### Round II - day 2
 
 - Watering can (kon)
-- Tales of seafaring (mor)
+- **항해 이야기 (mor)**
 
 ### Round III - day 0
 
@@ -99,13 +101,13 @@ POI 2013-2014의 문제들은 다음 링크에서 찾아보실 수 있습니다.
 
 - Where is the one? (gdz)
 - Laser (las)
-- Polarization (pol)
+- **양극화 (pol)**
 
 
 ## XIX OI (POI 2011-2012)
 
 ### Round I
-- Festival (fes)
+- **축제 (fes)**
 - Letters (lit)
 - Distance (odl)
 - Rendezvous (ran)
@@ -118,7 +120,7 @@ POI 2013-2014의 문제들은 다음 링크에서 찾아보실 수 있습니다.
 ### Round II - day 1
 
 - Vouchers (bon)
-- Cloackroom (sza)
+- **휴대품 보관소 (sza)**
 
 ### Round II - day 2
 
@@ -140,4 +142,45 @@ POI 2013-2014의 문제들은 다음 링크에서 찾아보실 수 있습니다.
 - Minimalist Security (bez)
 - **벽돌 매장 (hur)**
 - Prefixuffix (pre)
+
+
+## XVII OI (POI 2010-2011)
+
+### Round I
+- Conspiracy (kon)
+- Lollipop (liz)
+- Lightning Conductor (pio)
+- **회전 (prz)**
+- Plot (wyk)
+
+### Round II - day 0
+
+- Strongbox (sej)
+
+### Round II - day 1
+
+- Difference (roz)
+- **쓰레기 (smi)**
+
+### Round II - day 2
+
+- **트리 회전 (rot)**
+- **온도 (tem)**
+
+### Round III - day 0
+
+- Dynamite (dyn)
+
+### Round III - day 1
+
+- **파티 (imp)**
+- Inspection (ins)
+- Periodicity (okr)
+
+### Round III - day 2
+
+- Meteors (met)
+- Sticks (pat)
+- Programming Contest (pro)
+
 
