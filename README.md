@@ -144,7 +144,7 @@ POI 2013-2014의 문제들은 다음 링크에서 찾아보실 수 있습니다.
 - Prefixuffix (pre)
 
 
-## XVII OI (POI 2010-2011)
+## XVIII OI (POI 2010-2011)
 
 ### Round I
 - Conspiracy (kon)
